@@ -158,6 +158,10 @@ ehthumbs.db
 Thumbs.db
 
 # Temporary folders
+[*.md]
+[*.pdf]
+[**/*.md]
+[**/*.pdf]
 tmp/
 temp/
 
